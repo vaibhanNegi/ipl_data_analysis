@@ -18,7 +18,7 @@ This project aims to provide analytical insights into IPL matches by processing 
 |-------------|-------------|-------------|
 | ![dash1](images/dash1.png) | ![dash2](images/dash2.png) | ![dash3](images/dash3.png) |
 
-### 🧪 Jupyter Notebook Visuals
+### 🧪 Glimps of some of the Jupyter Notebook Visuals
 
 | Visual 1 | Visual 2 |
 |----------|----------|
