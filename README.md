@@ -10,6 +10,25 @@ Welcome to my **IPL Data Analysis** project! This project explores in-depth matc
 
 This project aims to provide analytical insights into IPL matches by processing and visualising player and match data. We used Python for data cleaning and exploration, and Power BI to design a user-friendly dashboard highlighting player and team performance trends.
 
+## 🏏 IPL Data Analysis – Visuals
+
+### 📊 Dashboard Screenshots
+
+| Dashboard 1 | Dashboard 2 | Dashboard 3 |
+|-------------|-------------|-------------|
+| ![dash1](images/dash1.png) | ![dash2](images/dash2.png) | ![dash3](images/dash3.png) |
+
+### 🧪 Jupyter Notebook Visuals
+
+| Visual 1 | Visual 2 |
+|----------|----------|
+| ![img1](images/img1.png) | ![img2](images/img2.png) |
+
+| Visual 3 | Visual 4 |
+|----------|----------|
+| ![img3](images/img3.png) | ![img4](images/img4.png) |
+
+
 ### ✅ Objectives
 
 - Clean and process IPL match delivery-level data.
