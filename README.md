@@ -70,10 +70,10 @@ This project was built as part of my internship at **InfoTact Solutions**. I wor
 
 **Vaibhav Negi**  
 📍 Nainital, Uttarakhand  
-📧 vaibhav.yourmail@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://sites.google.com/view/your-portfolio)
+📧 vaibhavn2024@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-negi-440740263/) | [Portfolio](https://sites.google.com/d/1KBvOus2aig6MDvE32fak2kYsVFZTPNz5/p/1rXg8evje3kGMCuq7i4hy_p_d3uJv6RGP/edit)
 
 ---
 
-### ⭐ Star this repository if you love cricket and data!
+
 
