@@ -22,11 +22,11 @@ This project aims to provide analytical insights into IPL matches by processing 
 
 | Visual 1 | Visual 2 |
 |----------|----------|
-| ![img1](images/img1.png) | ![img2](images/img2.png) |
+| ![img1](images/py1.png) | ![img2](images/py3.png) |
 
 | Visual 3 | Visual 4 |
 |----------|----------|
-| ![img3](images/img3.png) | ![img4](images/img4.png) |
+| ![img3](images/py2.png) | ![img4](images/py4.png) |
 
 
 ### ✅ Objectives
