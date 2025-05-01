@@ -64,5 +64,16 @@ This project was built as part of my internship at **InfoTact Solutions**. I wor
 
 ---
 
-## 📁 Repository Structure
+---
+
+## 📬 Contact
+
+**Vaibhav Negi**  
+📍 Nainital, Uttarakhand  
+📧 vaibhav.yourmail@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://sites.google.com/view/your-portfolio)
+
+---
+
+### ⭐ Star this repository if you love cricket and data!
 
